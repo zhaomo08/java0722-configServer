@@ -13,3 +13,4 @@ spring:
    show-sql: true
   application:
     name: UserProvider01
+version: UserProvider02
